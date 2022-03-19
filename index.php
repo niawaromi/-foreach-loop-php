@@ -10,9 +10,3 @@
      } 
 
 ?>
-
-<body>
-    <html>
-        
-    </html>
-</body>
